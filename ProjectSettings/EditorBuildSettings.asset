@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstWorld/Menu.unity
+    guid: 50d9b92104f399c44b430566558c7637
+  - enabled: 1
+    path: Assets/Scenes/FirstWorld/FirstWorld.unity
+    guid: 03cf5bb817978614ead1ddad8ad3d923
+  - enabled: 1
+    path: Assets/Scenes/FirstWorld/firstworld2.unity
+    guid: 1da9f5f461603b6458893ba2794f47f6
+  - enabled: 1
+    path: Assets/Scenes/FirstWorld/firstworld4.unity
+    guid: 827ffe0dcacce744bbc8f5373ec6ffab
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/Scene1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/GROUND.unity
+    guid: ec4a352e0ff63fd4d971552d2be41f06
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/Scene2.unity
+    guid: 047caf1eb037f6845bd482feb251c1dc
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/Scene3.unity
+    guid: c1dfd8db4e6b0e54391567e4758abd9a
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/Puzzle1.unity
+    guid: da05329bc44e1c14997db36bf4ff3565
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/Scene1topReturn.unity
+    guid: 6b7fffacff988b444bd81d7cc2e5d9d5
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/bossFight/bossFight.unity
+    guid: f3a5be5b2412c89459fd4d98003335a8
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/bossFight/bossfight1.unity
+    guid: bbf89b47d510a0944837458cffef6d44
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/bossFight/BossFight3.unity
+    guid: da79a60fffe531744b9511d4549fe71f
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/ReturnScene3.unity
+    guid: 7a1537a245cc6674f9f39988a251b4d7
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/ReturnToScene2.unity
+    guid: b23aa557628095a4d94e61c1e9360784
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/ReturnToScene1.unity
+    guid: 674c13719dcedc342afbd4f7487b7166
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/bossFight/Returntobossfight.unity
+    guid: db0d07e8845927540ba13b776b203ead
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/bossFight/ReturnToBossfight1.unity
+    guid: 98eb280563c17474c87565ed9488f761
+  - enabled: 1
+    path: Assets/Scenes/FirstWorld/Lift.unity
+    guid: 0396aa73c231fa84d81f10a523fc0f2c
+  - enabled: 1
+    path: Assets/Scenes/FirstWorld/Portal.unity
+    guid: b094196786e4d8b41bcff276d2c0faea
+  - enabled: 1
+    path: Assets/Scenes/FirstWorld/zoom.unity
+    guid: dadb6cc53608daf4884497ffb2fea6b3
+  - enabled: 1
+    path: Assets/Scenes/WarAge/warage.unity
+    guid: 6449cf09bdabbff43b23c75d2b4b8d5b
+  - enabled: 1
+    path: Assets/Scenes/WarAge/WarAgeScene1.unity
+    guid: 399ee9e53112a3948bed91b4d37bfddd
+  - enabled: 1
+    path: Assets/Scenes/WarAge/WarAge2.unity
+    guid: 062f16960d43d20439ece02360185885
+  - enabled: 1
+    path: Assets/Scenes/WarAge/WarAge3.unity
+    guid: 00e90ec087c2df04c883ec473a0fc8fd
+  - enabled: 1
+    path: Assets/Scenes/WarAge/WarAge4.unity
+    guid: cbd6097d21ba4824bbb6449d56f484fe
+  - enabled: 1
+    path: Assets/Scenes/WarAge/WarAge5.unity
+    guid: 01f12c36cedd0714a9fc1bc654bb8358
+  - enabled: 1
+    path: Assets/Scenes/WarAge/WarMainBoss.unity
+    guid: a89284e5319cefa43ac08912bea1cfc8
+  - enabled: 1
+    path: Assets/Scenes/Animal/Animal scene 1.unity
+    guid: 803851bf77c30fd44b59929cb1bab97e
+  - enabled: 1
+    path: Assets/Scenes/Animal/Animal scene 2.unity
+    guid: 55241f3646ccbc445980f8a4bf29a02f
+  - enabled: 1
+    path: Assets/Scenes/Plants/plants scene 1.unity
+    guid: 01faa75b9670b1849a38f6fbdfbb7a2c
+  - enabled: 1
+    path: Assets/Scenes/Plants/plants scene 2.unity
+    guid: 68e6c634b07a93c41a727a00a0687fc6
+  - enabled: 1
+    path: Assets/Scenes/Future/Future scene 1.unity
+    guid: 4980397aad15ce94a8a72fb8b735642c
+  - enabled: 1
+    path: Assets/Scenes/Future/Future scene 2.unity
+    guid: 00b9ea2734f51c54997851db9f54f2a5
+  - enabled: 1
+    path: Assets/Scenes/WarAge/Transitiontofantacy.unity
+    guid: eb34ddcdf5d4dc74790cdccabf7bc97f
+  - enabled: 1
+    path: Assets/Scenes/Animal/TransitionToAnimal.unity
+    guid: 05b0d55a241a7274b934e1aa7c9a4d62
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/TransitiontoPlant.unity
+    guid: 6183364055e1f1344ac5a306b7f27c81
+  - enabled: 1
+    path: Assets/Scenes/Plants/TransionToFuture.unity
+    guid: 5aca6971b08be9e42a13e990dfd66ed7
+  - enabled: 1
+    path: Assets/Scenes/Last Scene/lastScene.unity
+    guid: 0966a95a7f215f441a27434fe48f4eaa
+  - enabled: 1
+    path: Assets/Scenes/WarAge/ChangingtoKnight.unity
+    guid: 56941426c92d5b2468452660f95571b3
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/bossFight/FireBoss.unity
+    guid: fdb58e20f4e8de443bca4560a1f07b13
+  - enabled: 1
+    path: Assets/Scenes/Fantacy/bossFight/ChangeToFireBoss.unity
+    guid: 47abba8731cfad94fa5ef0ed0f66ef65
+  - enabled: 1
+    path: Assets/Scenes/WarAge/EarthBoss.unity
+    guid: b2419917e90ba8f429a06e51e41c9e49
+  - enabled: 1
+    path: Assets/Scenes/WarAge/PlayerChangeToEarthWorrior.unity
+    guid: eb2b203ea2a85504281256e57cb7bbf2
+  - enabled: 1
+    path: Assets/Scenes/Plants/Changingintowater.unity
+    guid: b49fa24f35220f74ba576a9f33df846c
+  - enabled: 1
+    path: Assets/Scenes/Animal/WindBoss.unity
+    guid: 768fde9f81af02847b568745201164a0
+  - enabled: 1
+    path: Assets/Scenes/Animal/ChangingTOWindBoss.unity
+    guid: ae7d60ab9c862814a805c5954a26901b
+  m_configObjects: {}

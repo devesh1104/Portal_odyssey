@@ -1,0 +1,1 @@
+you can move the entire folder directly into your game, or if you prefer double click on the unity executor with your project open.

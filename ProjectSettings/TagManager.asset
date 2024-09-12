@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NextScene1
+  - NewScene2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - attackMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 0.back
+    uniqueID: 2638458761
+    locked: 0
+  - name: 0.1
+    uniqueID: 2244579417
+    locked: 0
+  - name: 0.2
+    uniqueID: 3671220285
+    locked: 0
+  - name: 0.3
+    uniqueID: 3517460669
+    locked: 0
+  - name: 0.4
+    uniqueID: 2618684305
+    locked: 0
+  - name: 0.5
+    uniqueID: 1274736181
+    locked: 0
+  - name: 0.6
+    uniqueID: 1624308907
+    locked: 0
+  - name: 0.7
+    uniqueID: 2215353917
+    locked: 0
+  - name: 0.8
+    uniqueID: 2434479697
+    locked: 0
+  - name: back
+    uniqueID: 904002623
+    locked: 0
+  - name: 1
+    uniqueID: 623477939
+    locked: 0
+  - name: 2
+    uniqueID: 3850542557
+    locked: 0
+  - name: 3
+    uniqueID: 214404067
+    locked: 0
+  - name: 4
+    uniqueID: 846190757
+    locked: 0
+  - name: 5
+    uniqueID: 3296437707
+    locked: 0
+  - name: 6
+    uniqueID: 4004907809
+    locked: 0
+  - name: 7
+    uniqueID: 169637773
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 18
+    uniqueID: 3278593951
+    locked: 0
+  - name: New Layer 19
+    uniqueID: 2540339207
+    locked: 0
